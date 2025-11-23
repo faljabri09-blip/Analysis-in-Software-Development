@@ -20,3 +20,8 @@
 | BKLG-004| Research payment gateway options | Low      | Done   | David       | 2025-11-20|
 
 
+User Stories 
+
+![image alt](https://github.com/faljabri09-blip/Analysis-in-Software-Development/blob/b5c0fe4a621f8e45e48f4b40497b62b8d4032871/user%20stories.webp)
+
+
