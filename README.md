@@ -26,3 +26,12 @@ User Stories
 ![image alt](https://github.com/faljabri09-blip/Analysis-in-Software-Development/blob/b5c0fe4a621f8e45e48f4b40497b62b8d4032871/user%20stories.webp)
 
 
+
+Banck system user story
+
+
+
+
+![image alt](https://github.com/faljabri09-blip/Analysis-in-Software-Development/blob/f9c7187d7615e2fcc579ef7b90b72eeea3cc2315/banck%20system.avif)
+
+
