@@ -1,1 +1,1 @@
-SDLC Phases https://share.google/images/ARbsY4d7bscXnxCDq
+SDLC Phases ![image](https://share.google/images/ARbsY4d7bscXnxCDq)
